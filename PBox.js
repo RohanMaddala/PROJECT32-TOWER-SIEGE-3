@@ -8,6 +8,7 @@ class PBox {
       this.width = 40;
       this.height = 50;
       World.add(world, this.body);
+      this.Visiblity=5
     }
     display(){
      // console.log(this.body.speed);

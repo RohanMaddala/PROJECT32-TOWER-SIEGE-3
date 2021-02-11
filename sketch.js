@@ -82,7 +82,7 @@ function draw() {
   fill("white")
   textSize(20)
   text("Press Space for another chance",1200,50)
-  //text("Score : "+score,50,50)
+  text("Score : "+score,50,50)
   
   ground1.display();
   ground2.display();
